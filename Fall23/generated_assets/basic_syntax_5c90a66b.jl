@@ -50,7 +50,7 @@ md"## Functions"
 md"We can use a short-form, one-line function definition for simple functions:"
 
 # ╔═╡ a7453572-edeb-11ea-1e27-9f710fd856a6
-f(x) = 3 + x
+f(x) = 2 + x
 
 # ╔═╡ b341db4e-edeb-11ea-078b-b71ac00089d7
 md"Typing the function's name gives information about the function. To call it we must use parentheses:"
